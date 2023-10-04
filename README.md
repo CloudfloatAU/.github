@@ -11,3 +11,5 @@ Using this currently to:
     https://github.com/stevemao/github-issue-templates
 
     https://www.pullrequest.com/blog/writing-a-great-pull-request-description/
+
+**NOTE - this repo is public - Github only allows defining organization-wide PULL_REQUEST_TEMPLATE.md files in a public repository - see https://github.com/orgs/community/discussions/42499**
